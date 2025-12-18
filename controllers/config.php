@@ -3,16 +3,16 @@
 // config.php
 
 // Thông tin kết nối CSDL (local host)
-define('DB_HOST','127.0.0.1'); // địa chỉ server MySQL
-define('DB_NAME','qlsv');      // tên database
-define('DB_USER','root');      // tài khoản
-define('DB_PASS','');          // mật khẩu
+// define('DB_HOST','127.0.0.1'); // địa chỉ server MySQL
+// define('DB_NAME','qlsv');      // tên database
+// define('DB_USER','root');      // tài khoản
+// define('DB_PASS','');          // mật khẩu
 
 // Thay bằng thông tin từ InfinityFree Control Panel
-// define('DB_HOST', 'sql100.infinityfree.com'); // ví dụ: lấy chính xác từ control panel
-// define('DB_NAME', 'if0_40710021_qlsv'); // tên DB do control panel tạo
-// define('DB_USER', 'if0_40710021'); // user DB
-// define('DB_PASS', 'Pv4ZPZG9zXfh'); // mật khẩu DB
+define('DB_HOST', 'sql100.infinityfree.com'); // ví dụ: lấy chính xác từ control panel
+define('DB_NAME', 'if0_40710021_qlsv'); // tên DB do control panel tạo
+define('DB_USER', 'if0_40710021'); // user DB
+define('DB_PASS', 'Pv4ZPZG9zXfh'); // mật khẩu DB
 
 try {
     // Tạo kết nối PDO tới MySQL
