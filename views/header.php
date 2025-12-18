@@ -21,7 +21,7 @@
 <!-- Thanh điều hướng -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary mb-4">
   <div class="container">
-    <a class="navbar-brand" href="index.php">Thứ 6 - ca 4</a>
+    <a class="navbar-brand" href="index.php">PHẦN MỀM QUẢN LÝ SINH VIÊN</a>
   </div>
 </nav>
 
