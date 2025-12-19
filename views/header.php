@@ -22,6 +22,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary mb-4">
   <div class="container">
     <a class="navbar-brand" href="index.php">PHẦN MỀM QUẢN LÝ SINH VIÊN</a>
+    <h1>Phạm Quốc Tiến - Ca cuối</h1>
   </div>
 </nav>
 
